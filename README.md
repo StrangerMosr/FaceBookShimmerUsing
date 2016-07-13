@@ -17,8 +17,9 @@ Shimmer是Facebook提供的一项基于Java的library，它可以使Android中�
 **Android Studio**
 
 // Gradle dependency on Shimmer for Android
+
 dependencies {
-  compile 'com.facebook.shimmer:shimmer:0.1.0@aar'
+    compile 'com.facebook.shimmer:shimmer:0.1.0'
 }
 
 **Eclipse**
