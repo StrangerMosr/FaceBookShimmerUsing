@@ -1,5 +1,5 @@
 # FaceBookShimmerUsing
-Facebook开源闪光控件（ShimmerForAndroid）使用
+[Facebook开源闪光控件（ShimmerForAndroid）使用](http://facebook.github.io/shimmer-android/javadoc/index.html)
 
 Shimmer是Facebook提供的一项基于Java的library，它可以使Android中的所有View控件具有闪光的效果。
 
