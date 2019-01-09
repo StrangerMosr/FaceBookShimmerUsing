@@ -9,8 +9,8 @@ Shimmer是Facebook提供的一项基于Java的library，它可以使Android中�
 
 效果图
 
-![image](https://github.com/StrangerMosr/FaceBookShimmerUsing/blob/master/shimmerUsing.gif)
-![image](https://github.com/StrangerMosr/FaceBookShimmerUsing/blob/master/shimmerOfficialResults.gif)
+![image](https://img-blog.csdnimg.cn/20190109164547699.gif)
+![image](https://img-blog.csdnimg.cn/20190109164613516.gif)
 
 用法：
 
